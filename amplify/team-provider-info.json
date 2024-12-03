@@ -1,0 +1,20 @@
+{
+  "trial": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-flexifitfeedback-trial-24caf-authRole",
+      "UnauthRoleArn": "arn:aws:iam::531549781078:role/amplify-flexifitfeedback-trial-24caf-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::531549781078:role/amplify-flexifitfeedback-trial-24caf-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-flexifitfeedback-trial-24caf-deployment",
+      "UnauthRoleName": "amplify-flexifitfeedback-trial-24caf-unauthRole",
+      "StackName": "amplify-flexifitfeedback-trial-24caf",
+      "StackId": "arn:aws:cloudformation:ap-south-1:531549781078:stack/amplify-flexifitfeedback-trial-24caf/71eca550-b17c-11ef-9733-06002969189d",
+      "AmplifyAppId": "d3b12iretatiqg"
+    },
+    "categories": {
+      "auth": {
+        "flexifit": {}
+      }
+    }
+  }
+}
